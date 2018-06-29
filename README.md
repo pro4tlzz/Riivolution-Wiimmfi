@@ -6,3 +6,5 @@ Riivolution Channel
 Internet Connection
 Patched Main.dol & Static.Rel
 Av version loads main.dol and StaticR.rel from different directory.
+Adapted from CTGPR V1.03 
+Requires CTGPR/MYSTUFF
