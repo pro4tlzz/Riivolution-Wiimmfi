@@ -9,7 +9,7 @@
     <section name="WIIMMFIV1 Settings">
 
 
-      <option name="Copy MKW save to SD card?" default="1">
+      <option name="Copy MKW save to SD card?" default="0">
         <choice name="Enabled">
           <patch id="redirectsave"/>
         </choice>
