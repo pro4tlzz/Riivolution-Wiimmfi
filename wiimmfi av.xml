@@ -8,7 +8,7 @@
 
     <section name="WIIMMFI Patch Through /WIIMMFI Settings">
 
-      <option id="WIIMFI" name="Wiimfi" default="1">
+      <option name="Main.dol?" default="1">
         <choice name="Enabled">
           <patch id="WIM"/>
         </choice>
