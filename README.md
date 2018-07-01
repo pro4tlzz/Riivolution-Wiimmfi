@@ -12,7 +12,7 @@ Requires CTGPR/MYSTUFF
 XML files to load patched Wiimmfi files to play Maio Kart Wii Online
 ## Getting Started
 
-Download to /riivolution
+Download to the XML file to /riivolution on your SD Card
 
 ### Prerequisites
 
@@ -28,10 +28,8 @@ Step 1:
 ```
 Download the XMl for your region to the /riivolution folder on your SD Card
 
-
 ```
 Step 2:
-
 
 ```
 Create a folder on your SD Card called Wiimmfi and place the patched Main.dol & StaticR.rel in that folder
@@ -42,7 +40,9 @@ Step 3:
 ```
 Place any custom files into CTGPR/Mystuff on your SD card
 ```
+
 Step 4:
+
 ```
 Insert your SD card into the Wii and enable the Main.dol and StaticR.rel patches, then press launch
 ```
