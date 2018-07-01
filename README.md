@@ -1,4 +1,4 @@
-#Riivolution through Wiimmfi
+## Riivolution through Wiimmfi
 
 XML files to load patched Wiimmfi files to play Maio Kart Wii Online from Riivolution
 
@@ -8,10 +8,13 @@ Download to the XML file to /riivolution on your SD Card
 
 ### Prerequisites
 
-Wiimmfi patched Main.dol & StaticR.rel --> I will not provide game files!
-Valid Mario Kart Wii Game Disc
-Modded Wii with Riivolution Channel and an internet connection
-SD Card for storing the files
+```Wiimmfi patched Main.dol & StaticR.rel --> I will not provide game files!```
+
+```Valid Mario Kart Wii Game Disc```
+
+```Modded Wii with Riivolution Channel and an internet connection```
+
+```SD Card for storing the files```
 
 ### Installing
 
