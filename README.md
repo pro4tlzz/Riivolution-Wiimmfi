@@ -1,15 +1,7 @@
-# Riivolution-Wiimmfi
-Play Maio Kart Wii online with Wiimmfi through Riivolution
-Prequesitories:
-Valid Mario Kart Wii game disc (PAL)
-Riivolution Channel
-Internet Connection
-Patched Main.dol & Static.Rel
-Av version loads main.dol and StaticR.rel from different directory.
-Adapted from CTGPR V1.03 
-Requires CTGPR/MYSTUFF
-# Project Title
-XML files to load patched Wiimmfi files to play Maio Kart Wii Online
+#Riivolution through Wiimmfi
+
+XML files to load patched Wiimmfi files to play Maio Kart Wii Online from Riivolution
+
 ## Getting Started
 
 Download to the XML file to /riivolution on your SD Card
@@ -54,7 +46,7 @@ Play online and profit!!!
 
 ## Authors
 
-* **Me** - *Initial work* - [Pro4TLZZ](https://github.com/Pro4TLZZ)
+* **Me** - [Pro4TLZZ](https://github.com/Pro4TLZZ)
 
 
 ## Acknowledgments
