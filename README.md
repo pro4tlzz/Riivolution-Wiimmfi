@@ -1,6 +1,6 @@
 ## Riivolution through Wiimmfi
 
-XML files to load patched Wiimmfi files to play Maio Kart Wii Online from Riivolution
+XML files to load patched Wiimmfi files to play Mario Kart Wii Online from Riivolution
 
 ## Getting Started
 
@@ -55,4 +55,4 @@ Play online and profit!!!
 ## Acknowledgments
 
 * Shoutout to Mrbean35000vr, I used the riivolution files from CTGPR v1.03 as a base
-* Thanks to Disord user Perhaps for helping me
+* Thanks to Discord user Perhaps for helping me
