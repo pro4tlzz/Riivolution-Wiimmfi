@@ -39,8 +39,14 @@ Place any custom files into CTGPR/Mystuff on your SD card
 Step 4:
 
 ```
-Insert your SD card into the Wii and enable the Main.dol and StaticR.rel patches, then press launch
+Insert your SD card into the Wii 
 ```
+
+Step 5:
+
+```
+Launch Riivolution and enable the Main.dol and StaticR.rel patches, then press launch
+````
 
 Step 5: 
 ```
