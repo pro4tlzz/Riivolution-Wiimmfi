@@ -1,32 +1,25 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <wiidisc version="1">
   <id version="0" disc="0" game="RMC">
-    <region type="P"/>
 
   </id>
   <options>
 
-    <section name="WIIMMFI">
+    <section name="Basic Wiimmfi Pack">
 
-      <option name="Apply Main.dol?(Required)" default="1">
+      <option name="Apply DOL and REL?" default="1">
         <choice name="Enabled">
-          <patch id="WIM"/>
+          <patch id="NeededFiles"/>
         </choice>
       </option>
-
-      <option name="Apply StaticR?(Required)" default="1">
-        <choice name="Enabled">
-          <patch id="StaticR"/>
-        </choice>
-      </option>
-
-      <option name="Use SD Card save(Optional)?" default="0">
+	  
+      <option name="Use SD Card save?" default="0">
         <choice name="Enabled">
           <patch id="redirectsave"/>
         </choice>
       </option>
 
-      <option name="Enable My Stuff Folder?(Optional)" default="1" id="any_alteration">
+      <option name="Enable My Stuff Folder?" default="1"
         <choice name="Enabled">
           <patch id="any_alteration_patch"/>
         </choice>
@@ -35,16 +28,13 @@
     </section>
   </options>
 
-  <patch id="WIM">
+  <patch id="NeededFiles">
     <folder external="/Wiimmfi/" recursive="false"/>
     <file disc="main.dol" external="/Wiimmfi/main.dol"/>
-  </patch>
- 
-  <patch id="StaticR">
-    <folder external="/Wiimmfi/" recursive="false"/>
+	<folder external="/Wiimmfi/" recursive="false"/>
     <file disc="/rel/StaticR.Rel" external="/Wiimmfi/StaticR.Rel"/>
   </patch>
-
+ 
   <patch id="redirectsave">
     <savegame external="/riivolution/save/{$__gameid}{$__region}" clone="true"/>
   </patch>
