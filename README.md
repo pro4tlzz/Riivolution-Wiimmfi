@@ -56,7 +56,7 @@ Play online and profit!!!
 ## Authors
 
 * **Me** - [Pro4TLZZ](https://github.com/Pro4TLZZ)
-
+* **fancymelonub** -[fancymelonub](https://github.com/fancymelonub)
 
 ## Acknowledgments
 
